@@ -1,5 +1,7 @@
 # External Libraries used by Castle Game Engine
 
+*These are obsolete now*. The current libraries have been moved to castle_game_engine/tools/build-tool/data/external_libraries/ directory, part of Castle Game Engine SVN/GIT repos.
+
 This repository contains various precompiled libraries used by the Castle Game Engine http://castle-engine.sourceforge.net/engine.php .
 
 They are especially useful on Windows, where searching (or compiling yourself) these DLL files would be quite bothersome. On Linux and Mac OS X, these libraries are usually trivial to install using a package manager. The README files inside each subdirectory should specify the exact sources of each file.
