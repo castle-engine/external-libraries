@@ -1,6 +1,6 @@
 # External Libraries used by Castle Game Engine
 
-**This repository is obsolete / deprecated!**. The current libraries have been moved to the [[Castle Game Engine repository|https://github.com/castle-engine/castle-engine]], they can be found there inside the `tools/build-tool/data/external_libraries/` subdirectory. [[Here is the direct link to the external libraries directory|https://github.com/castle-engine/castle-engine/tree/master/tools/build-tool/data/external_libraries]].
+**This repository is obsolete / deprecated!**. The current libraries have been moved to the [Castle Game Engine repository](https://github.com/castle-engine/castle-engine), they can be found there inside the `tools/build-tool/data/external_libraries/` subdirectory. [Here is the direct link to the external libraries directory](https://github.com/castle-engine/castle-engine/tree/master/tools/build-tool/data/external_libraries).
 
 This repository contains various precompiled libraries used by the Castle Game Engine https://castle-engine.sourceforge.io/ .
 
